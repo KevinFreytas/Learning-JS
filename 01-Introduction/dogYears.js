@@ -14,8 +14,8 @@ laterYears *= 4;
 // This joins the early years with the later years, resulting in the final age.
 let myAgeInDogYears = earlyYears + laterYears;
 
-// This saves the users' name into a variable with all the letters lowecased.
-const myName = 'Maria da Luz'.toLowerCase();
+// This saves the users' name into a variable.
+const myName = 'Maria da Luz';
 
 console.log(`My name is ${myName}. I am ${myAge} years old in human years which is ${myAgeInDogYears} years old in dog years.`);
 

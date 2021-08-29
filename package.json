@@ -1,0 +1,22 @@
+{
+  "name": "learning-js",
+  "version": "1.0.0",
+  "description": "Here I will post the codes during my JavaScripts practices.\r Check the branches for the detailed sections.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KevinFreytas/Learning-JS.git"
+  },
+  "author": "Kevin Freitas",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KevinFreytas/Learning-JS/issues"
+  },
+  "homepage": "https://github.com/KevinFreytas/Learning-JS#readme",
+  "dependencies": {
+    "bootstrap": "^5.1.0"
+  }
+}
