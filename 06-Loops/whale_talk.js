@@ -1,5 +1,5 @@
 // This variable will contain the text you want to translate into "whale talk".
-let input = 'a whale of a deal!'.toUpperCase();
+let input = 'The northearn lights are wonderful!'.toUpperCase();
 
 // Array of vowels to be extracted from the input variable.
 const vowels = ['A', 'E', 'I', 'O', 'U'];
