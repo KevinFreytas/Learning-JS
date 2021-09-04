@@ -24,5 +24,5 @@ secretMessage.unshift('Programming');
 // Removes the string 'get, 'right', 'the, 'first, 'time', and replace them with the single string 'know'.
 secretMessage.splice(6, 5, 'know');
 
-// Prints the secret message as a sentence.
+// Prints the secret message as a sentence!
 console.log(secretMessage.join(' '));
