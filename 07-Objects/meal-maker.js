@@ -91,10 +91,9 @@ const menu = {
   menu.addDishToCourse('mains', 'Pot Roast', 17);
   
   menu.addDishToCourse('desserts', 'Petit Gateau', 12);
-  menu.addDishToCourse('desserts', 'Lemon Mousse', 10);menu.addDishToCourse('desserts', 'Apple Cinnamon Custard Cake', 16);
+  menu.addDishToCourse('desserts', 'Lemon Mousse', 10);
+  menu.addDishToCourse('desserts', 'Apple Cinnamon Custard Cake', 16);
   
   // And finally, create a variable called "meal" that will contain a random meal.
   let meal = menu.generateRandomMeal();
   console.log(meal);
-  
-  
