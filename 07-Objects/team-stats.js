@@ -67,12 +67,12 @@ const team = {
     }
   }
   
-// Here I add more players to our team
+// Here I add more players to our team.
 team.addPlayer('Sergio', 'Ramos', 35);
 team.addPlayer('Gianluigi', 'Donnarumma', 22);
 team.addPlayer('Angel', 'Di Maria', 33);
   
-// Adding more games played by our team
+// Adding more games played by our team.
 team.addGame('Juventus', 3, 0);
 team.addGame('Real Madrid', 7, 1);
 team.addGame('Barcelona', 1, 6);
