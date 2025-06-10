@@ -1,5 +1,5 @@
 document.addEventListener('DOMContentLoaded', () => {
-  const button = document.querySelector('button');
+  const button = document.getElementById('calculateButton');
   if (!button) {
     console.error('Button not found!');
     return;
